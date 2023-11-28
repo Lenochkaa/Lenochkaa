@@ -1,4 +1,4 @@
- I’m currently learning HTML and CSS
+ I’m currently learning HTML and CSS.
  I’m study at IT faculty.
 
 <!---
